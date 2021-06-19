@@ -1,0 +1,28 @@
+body a{
+    text-decoration: none;
+}
+.top{
+    background: #000;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.img{
+    padding-left: 115px;
+}
+.top ul{
+    padding-top: 15px;
+    list-style: none;
+    display: flex;
+    padding-left: 900px;
+}
+.top li{
+    font-size: 20px;
+    padding-right: 35px;
+}
+.top li:last-child{
+    padding-right: 0;
+}
+.main img{
+    margin: 40px 0;
+}

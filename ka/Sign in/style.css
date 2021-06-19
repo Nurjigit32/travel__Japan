@@ -1,0 +1,88 @@
+body a{
+    text-decoration: none;
+}
+.top{
+    background: #000;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.img{
+    padding-left: 115px;
+}
+.top ul{
+    padding-top: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 900px;
+}
+.top li{
+    font-size: 20px;
+    padding-right: 35px;
+}
+.top li:last-child{
+    padding-right: 0;
+}
+.top a{
+    text-decoration: none;
+}
+.main{
+    position: relative;
+    padding-top: 150px;
+    display: flex;
+    align-items: center;
+}
+.im{
+    height: 106px;
+    margin: -28px;
+}
+.sub{
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+    padding: 20px 0 20px;
+}
+.right{
+    position: absolute;
+    top: 30%;
+    left: 50% ;
+}
+.input-form{
+    width: 330px;
+    margin: 15px -20px;
+}
+.input-form input{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.btn{
+    position: absolute;
+    top: 90%;
+    left: -11%;
+}
+.btn a{
+    color: white;
+}
+.btn button{
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    width: 330px;
+}
+.forgot{
+    position: absolute;
+    top: 120%;
+    left: 25%;
+}
+.btn_2{
+    position: absolute;
+    top: 160%;
+    left: -6%;
+}
+.btn_2 button{
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    width: 330px;
+}

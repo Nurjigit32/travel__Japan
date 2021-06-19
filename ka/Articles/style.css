@@ -1,0 +1,44 @@
+body a{
+    text-decoration: none;
+}
+.top{
+    background: #000;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.img{
+    padding-left: 115px;
+}
+.top ul{
+    padding-top: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 900px;
+}
+.top li{
+    font-size: 20px;
+    padding-right: 35px;
+}
+.top li:last-child{
+    padding-right: 0;
+}
+.top a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.title{
+    padding-top: 150px;
+}
+.title_2{
+    font-size: 19px;
+}
+.subtitle{
+    font-size: 19px;
+}
+.main{
+    height: 1000px;
+    background: url("https://4.bp.blogspot.com/-KeI2N8rc6qI/WQUeLCooUII/AAAAAAAADO8/Br8fh2uixqk-8RMtcqngF_ZjuVPhr974gCEw/s1600/Japan%2BWallpaper.jpg");
+    background-size: cover;
+}
+
